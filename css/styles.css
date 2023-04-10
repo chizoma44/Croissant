@@ -5,6 +5,10 @@ body {
   display: block;
   padding: 40px;
 }
+p {
+  line-height: 27px;
+  font-size: 18px;
+}
 .index-paragraph {
   padding-left: 100px;
   padding-right: 100px;
