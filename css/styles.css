@@ -1,3 +1,14 @@
 body {
+  max-width: 800;
   text-align: center;
+  margin: 20px;
+  display: block;
+  padding: 40px;
+}
+.index-paragraph {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.selection {
+  background: rgb(132, 17, 127);
 }
