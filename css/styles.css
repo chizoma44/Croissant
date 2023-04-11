@@ -9,6 +9,10 @@ p {
   line-height: 27px;
   font-size: 18px;
 }
+footer {
+  text-align: center;
+  margin: 0 30px;
+}
 .index-paragraph {
   padding-left: 100px;
   padding-right: 100px;
