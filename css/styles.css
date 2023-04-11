@@ -11,9 +11,7 @@ p {
 }
 footer {
   text-align: center;
-  margin: 0 30px;
-  display: flex;
-  justify-content: space-between;
+  margin: 30px;
 }
 .index-paragraph {
   padding-left: 100px;
