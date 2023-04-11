@@ -13,7 +13,7 @@ footer {
   text-align: center;
   margin: 0 30px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 .index-paragraph {
   padding-left: 100px;
