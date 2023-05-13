@@ -1,5 +1,5 @@
 body {
-  max-width: 800;
+  background: rgb(132, 17, 127);
   text-align: center;
   margin: 20px;
   display: block;
@@ -18,5 +18,4 @@ footer {
   padding-right: 100px;
 }
 .selection {
-  background: rgb(132, 17, 127);
 }
