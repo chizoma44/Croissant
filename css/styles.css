@@ -1,5 +1,6 @@
 body {
   background: rgb(132, 17, 127);
+  min-height: 100vh;
   text-align: center;
   margin: 20px;
   display: block;
@@ -16,6 +17,4 @@ footer {
 .index-paragraph {
   padding-left: 100px;
   padding-right: 100px;
-}
-.selection {
 }
